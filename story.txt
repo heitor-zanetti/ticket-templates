@@ -1,1 +1,6 @@
-Story Template.
+*As* [Insert persona...]
+*I want to* [Insert intent...]
+*So that* [Insert result...]
+
+*External Resources:*
+[Insert links here...]

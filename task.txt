@@ -1,1 +1,10 @@
-Task Template.
+[Insert a short description here]
+
+*External resources*
+[Insert links to any external resources...]
+
+*Extra information*
+[Insert any extra information here]
+
+*Acceptance Criteria*
+[Insert TestRail test cases links...]
